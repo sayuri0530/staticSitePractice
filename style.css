@@ -1,7 +1,7 @@
 .header-logo{
   text-align: center;
   font-size: 30px;
-  color: rgb(218, 134, 104);
+  color: #ff8264;
   font-weight: bold;
 }
 
@@ -10,7 +10,7 @@
   float: left;
   width: 20%;
   padding: 8px 0;
-  background-color: rgb(218, 134, 104);
+  background-color:#ff8264;
   color: white;
   text-align: center;
 }
