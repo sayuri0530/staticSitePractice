@@ -1,0 +1,22 @@
+.header-logo{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(218, 134, 104);
+  font-weight: bold;
+}
+
+.header-menu ul li{
+  list-style: none;
+  float: left;
+  width: 20%;
+  padding: 8px 0;
+  background-color: rgb(218, 134, 104);
+  color: white;
+  text-align: center;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+}
+
