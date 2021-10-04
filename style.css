@@ -30,7 +30,11 @@ a {
 }
 
 .main-image{
-  width: 750px;
-  display: block;
-  margin : 0 auto;
+  width: 100%;
+}
+
+.content{
+  width: 100%;
+  padding: 0 100px;
+  box-sizing: border-box;
 }
