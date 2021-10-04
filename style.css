@@ -29,3 +29,8 @@ a {
   text-decoration: none;
 }
 
+.main-image{
+  width: 750px;
+  display: block;
+  margin : 0 auto;
+}
